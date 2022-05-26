@@ -3,7 +3,9 @@
 - 🌱 I’m a Senior Software Engineer. I develop software for Android (Java, Kotlin) and for backend using Spring Boot (Java, Groovy).
 - 🌱 I have previously worked with Javascript and C#.
 
-
+<a href="https://github.com/romansloan/github-visitors-counter">
+    <img src="https://komarev.com/ghpvc/?username=romansloan&color=brightgreen">
+</a>
 <!--
 **romansloan/romansloan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
